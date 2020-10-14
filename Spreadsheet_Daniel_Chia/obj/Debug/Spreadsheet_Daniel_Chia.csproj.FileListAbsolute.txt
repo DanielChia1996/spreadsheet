@@ -1,0 +1,12 @@
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\bin\Debug\Spreadsheet_Daniel_Chia.exe.config
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\bin\Debug\Spreadsheet_Daniel_Chia.exe
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\bin\Debug\Spreadsheet_Daniel_Chia.pdb
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\bin\Debug\SpreadsheetEngine.dll
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\obj\Debug\Spreadsheet_Daniel_Chia.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\obj\Debug\Spreadsheet_Daniel_Chia.Form1.resources
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\obj\Debug\Spreadsheet_Daniel_Chia.Properties.Resources.resources
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\obj\Debug\Spreadsheet_Daniel_Chia.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\obj\Debug\Spreadsheet_Daniel_Chia.csproj.CopyComplete
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\obj\Debug\Spreadsheet_Daniel_Chia.exe
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\Spreadsheet_Daniel_Chia\obj\Debug\Spreadsheet_Daniel_Chia.pdb

@@ -1,0 +1,5 @@
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\danie\Desktop\Code Repos for my Github\spreadsheet\Spreadsheet_Daniel_Chia\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
